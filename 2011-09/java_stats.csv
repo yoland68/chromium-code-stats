@@ -1,6 +1,9 @@
 ./content/test/data/plugin/java_applet.java,1,1,0,0,1,0,0,0,2,0,2,0,0,0,0,2,0,0,0,0,0,0,0
 ./content/test/data/plugin/applet-tests/cookies/CookieTest.java,1,1,0,0,1,0,0,0,6,0,2,0,0,4,0,6,0,0,0,0,0,0,0
 ./content/test/data/plugin/applet-tests/authenticator/AuthenticatorTest.java,1,1,0,0,1,0,0,0,7,0,3,0,0,4,0,7,0,0,0,0,0,0,0
+./chrome/common/extensions/docs/examples/apps/hello-java/HelloLicenseServlet.java,1,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,6,4,0,0,2,6,0
+./chrome/common/extensions/docs/examples/apps/hello-java/workspace/HelloLicense/src/com/example/HelloLicenseServlet.java,1,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,6,4,0,0,2,6,0
+./chrome/common/extensions/docs/examples/extensions/irc/servlet/src/org/chromium/IRCProxyWebSocket.java,2,2,0,0,1,0,1,0,7,0,5,2,0,0,0,7,8,0,0,6,2,1,7
 ./remoting/android/internal/apk/src/org/chromium/chromoting/RemotingApplication.java,1,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
 ./remoting/android/internal/apk/src/org/chromium/chromoting/accountswitcher/AccountSwitcherFactoryGoogle.java,1,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0
 ./remoting/android/internal/apk/src/org/chromium/chromoting/accountswitcher/AccountsImageLoaderImpl.java,1,1,0,0,1,0,0,0,5,0,4,0,0,1,0,5,3,0,0,0,3,0,3
