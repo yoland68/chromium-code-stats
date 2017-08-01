@@ -1,0 +1,509 @@
+language,filename,blank,comment,code,"github.com/AlDanial/cloc v 1.72  T=2.48 s (205.2 files/s, 34966.3 lines/s)"
+Java,./javatests/src/org/chromium/android_webview/test/AwSettingsTest.java,396,175,2679
+Java,./java/src/org/chromium/android_webview/AwContents.java,474,786,2332
+Java,./glue/java/src/com/android/webview/chromium/WebViewChromium.java,209,130,1953
+Java,./java/src/org/chromium/android_webview/AwSettings.java,214,332,1291
+C++,./browser/aw_contents.cc,191,57,1248
+Java,./glue/java/src/com/android/webview/chromium/WebViewContentsClientAdapter.java,120,153,1055
+Java,./javatests/src/org/chromium/android_webview/test/PostMessageTest.java,74,91,868
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsClientShouldInterceptRequestTest.java,142,32,745
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsClientShouldOverrideUrlLoadingTest.java,151,67,729
+Java,./javatests/src/org/chromium/android_webview/test/SafeBrowsingTest.java,114,53,717
+Java,./javatests/src/org/chromium/android_webview/test/AndroidScrollIntegrationTest.java,134,47,702
+C++,./browser/aw_permission_manager_unittest.cc,143,115,640
+C++,./browser/browser_view_renderer.cc,112,38,634
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsTest.java,108,71,590
+Java,./javatests/src/org/chromium/android_webview/test/CookieManagerTest.java,116,99,570
+Java,./javatests/src/org/chromium/android_webview/test/AwTestBase.java,74,116,565
+C++,./browser/address_parser_internal.cc,79,31,560
+C++,./browser/address_parser_unittest.cc,43,11,558
+Java,./glue/java/src/com/android/webview/chromium/WebViewChromiumFactoryProvider.java,97,95,534
+Java,./java/src/org/chromium/android_webview/PopupTouchHandleDrawable.java,98,52,485
+Java,./javatests/src/org/chromium/android_webview/test/TestAwContentsClient.java,96,47,478
+C++,./browser/aw_contents_client_bridge.cc,71,30,473
+Java,./test/shell/src/org/chromium/android_webview/test/AwTestContainerView.java,84,23,472
+Java,./tools/system_webview_shell/apk/src/org/chromium/webview_shell/WebViewBrowserActivity.java,75,79,462
+C++,./browser/cookie_manager.cc,101,68,459
+C++,./browser/aw_permission_manager.cc,75,31,446
+Java,./glue/java/src/com/android/webview/chromium/ContentSettingsAdapter.java,115,27,437
+C++,./browser/aw_content_browser_client.cc,69,52,433
+C++,./browser/renderer_host/aw_resource_dispatcher_host_delegate.cc,66,32,431
+C++,./browser/browser_view_renderer_unittest.cc,84,42,428
+C++,./browser/aw_safe_browsing_whitelist_manager_unittest.cc,51,14,423
+Java,./javatests/src/org/chromium/android_webview/test/ClientOnPageFinishedTest.java,68,54,421
+Java,./javatests/src/org/chromium/android_webview/test/VisualStateTest.java,52,37,383
+C++,./browser/aw_settings.cc,89,22,376
+Java,./javatests/src/org/chromium/android_webview/test/AwLayoutSizerTest.java,79,7,363
+Java,./tools/system_webview_shell/layout_tests/src/org/chromium/webview_shell/test/WebViewLayoutTest.java,65,38,363
+Java,./javatests/src/org/chromium/android_webview/test/WebKitHitTestTest.java,55,19,355
+C++,./browser/scoped_app_gl_state_restore.cc,78,15,353
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsClientFullScreenTest.java,62,85,351
+Java,./java/src/org/chromium/android_webview/AwContentsClientBridge.java,47,69,348
+C++,./browser/render_thread_manager.cc,64,28,346
+Java,./javatests/src/org/chromium/android_webview/test/LoadUrlTest.java,48,23,343
+Java,./javatests/src/org/chromium/android_webview/test/AwScrollOffsetManagerTest.java,81,16,337
+C++,./browser/net/android_stream_reader_url_request_job_unittest.cc,67,19,334
+C/C++ Header,./browser/aw_contents.h,53,40,334
+Java,./javatests/src/org/chromium/android_webview/test/LoadDataWithBaseUrlTest.java,52,34,332
+Java,./javatests/src/org/chromium/android_webview/test/AndroidViewIntegrationTest.java,64,42,326
+Java,./javatests/src/org/chromium/android_webview/test/ClientOnReceivedError2Test.java,35,24,322
+C++,./browser/aw_browser_context.cc,73,43,320
+C++,./browser/aw_contents_io_thread_client.cc,72,23,314
+Java,./java/src/org/chromium/android_webview/AwWebContentsDelegateAdapter.java,37,36,305
+C++,./browser/net/aw_cookie_store_wrapper.cc,56,20,303
+Java,./javatests/src/org/chromium/android_webview/test/GeolocationTest.java,55,17,301
+Java,./javatests/src/org/chromium/android_webview/test/AwLegacyQuirksTest.java,43,24,294
+C++,./browser/net/android_stream_reader_url_request_job.cc,59,28,291
+Java,./java/src/org/chromium/android_webview/AwContentsClientCallbackHelper.java,46,22,287
+C++,./browser/net/aw_url_request_context_getter.cc,47,29,269
+C++,./renderer/aw_content_renderer_client.cc,42,57,269
+C++,./browser/aw_quota_manager_bridge.cc,57,13,264
+Java,./glue/java/src/com/android/webview/chromium/WebViewDelegateFactory.java,48,90,262
+Java,./test/shell/src/org/chromium/android_webview/shell/AwShellActivity.java,35,9,253
+C++,./browser/aw_web_contents_delegate.cc,37,28,249
+C++,./browser/state_serializer.cc,68,26,248
+Java,./java/src/org/chromium/android_webview/AwContentsClient.java,83,73,248
+Java,./tools/automated_ui_tests/javatests/src/org/chromium/webview_ui_test/test/ActionModeTest.java,36,48,246
+C++,./renderer/aw_render_frame_ext.cc,52,25,239
+Java,./javatests/src/org/chromium/android_webview/test/AwZoomTest.java,42,24,239
+C++,./browser/permission/permission_request_handler_unittest.cc,55,34,238
+C++,./browser/test/fake_window.cc,37,6,234
+C++,./browser/aw_autofill_client.cc,49,15,219
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsGarbageCollectionTest.java,36,26,215
+Java,./java/src/org/chromium/android_webview/AwScrollOffsetManager.java,69,92,214
+Java,./javatests/src/org/chromium/android_webview/test/crash/MinidumpUploaderTest.java,33,65,211
+Java,./test/shell/src/org/chromium/android_webview/test/NullContentsClient.java,54,7,209
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsClientCallbackHelperTest.java,44,28,209
+C++,./browser/hardware_renderer.cc,39,26,209
+Java,./javatests/src/org/chromium/android_webview/test/ClientOnReceivedHttpErrorTest.java,23,9,208
+Java,./java/src/org/chromium/android_webview/AwBrowserProcess.java,26,67,207
+Java,./java/src/org/chromium/android_webview/FullScreenView.java,46,9,207
+Java,./tools/system_webview_shell/apk/src/org/chromium/webview_shell/WebViewThreadTestActivity.java,21,26,204
+C++,./browser/renderer_host/aw_render_view_host_ext.cc,37,16,195
+C++,./browser/aw_metrics_service_client.cc,51,34,190
+C++,./test/embedded_test_server/aw_embedded_test_server.cc,32,17,186
+Java,./javatests/src/org/chromium/android_webview/test/MediaAccessPermissionRequestTest.java,18,12,184
+Java,./test/shell/src/org/chromium/android_webview/test/TestContentProvider.java,32,12,184
+Java,./javatests/src/org/chromium/android_webview/test/AwQuotaManagerBridgeTest.java,33,18,184
+C++,./browser/state_serializer_unittest.cc,35,8,183
+Java,./java/src/org/chromium/android_webview/AndroidProtocolHandler.java,19,38,180
+Java,./javatests/src/org/chromium/android_webview/test/NavigationHistoryTest.java,41,18,179
+C++,./lib/aw_main_delegate.cc,49,35,179
+Python,./tools/apk_merger.py,47,36,178
+C++,./browser/surfaces_instance.cc,34,18,174
+C++,./common/crash_reporter/aw_microdump_crash_reporter.cc,36,34,174
+C++,./browser/android_protocol_handler.cc,49,25,173
+C++,./browser/aw_safe_browsing_whitelist_manager.cc,25,51,164
+Java,./java/src/org/chromium/android_webview/AwVariationsSeedFetchService.java,24,50,163
+Java,./javatests/src/org/chromium/android_webview/test/crash/VisualStateCallbackTest.java,32,11,161
+Java,./javatests/src/org/chromium/android_webview/test/AwWebContentsObserverTest.java,17,11,159
+Java,./javatests/src/org/chromium/android_webview/test/WebViewModalDialogOverrideTest.java,27,33,158
+C++,./browser/deferred_gpu_command_service.cc,30,10,156
+Java,./tools/automated_ui_tests/javatests/src/org/chromium/webview_ui_test/test/util/WebViewSyncWrapper.java,19,30,153
+C/C++ Header,./browser/browser_view_renderer.h,48,45,152
+JavaScript,./tools/system_webview_shell/test/data/resources/js-test.js,25,15,151
+Java,./java/src/org/chromium/android_webview/HttpAuthDatabase.java,30,78,150
+Java,./javatests/src/org/chromium/android_webview/test/SaveRestoreStateTest.java,22,10,148
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsAnchorViewTest.java,41,30,147
+Java,./java/src/org/chromium/android_webview/OverScrollGlow.java,21,54,145
+C++,./browser/net/aw_request_interceptor.cc,31,10,144
+C++,./browser/address_parser.cc,36,46,143
+Java,./java/src/org/chromium/android_webview/crash/CrashReceiverService.java,21,44,137
+Java,./javatests/src/org/chromium/android_webview/test/AwJavaBridgeTest.java,23,10,135
+C++,./browser/java_browser_view_renderer_helper.cc,29,8,135
+Java,./java/src/org/chromium/android_webview/AwContentsStatics.java,30,31,135
+C++,./browser/net/input_stream_reader_unittest.cc,33,4,134
+C++,./browser/aw_browser_main_parts.cc,29,19,133
+C++,./browser/aw_browser_terminator.cc,23,16,133
+C++,./browser/test/rendering_test.cc,29,6,133
+C++,./browser/aw_contents_client_bridge_unittest.cc,22,15,132
+C/C++ Header,./browser/aw_content_browser_client.h,17,9,128
+Java,./javatests/src/org/chromium/android_webview/test/PopupWindowTest.java,25,12,128
+Java,./tools/system_webview_shell/page_cycler/src/org/chromium/webview_shell/page_cycler/PageCyclerTest.java,26,9,128
+C++,./browser/aw_cookie_access_policy.cc,22,7,126
+C++,./browser/aw_safe_browsing_resource_throttle.cc,18,9,126
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsRenderTest.java,25,18,125
+C++,./browser/net/aw_network_delegate.cc,24,8,125
+C++,./common/crash_reporter/crash_keys.cc,33,20,123
+Java,./java/src/org/chromium/android_webview/AwCookieManager.java,29,76,123
+C/C++ Header,./browser/aw_browser_context.h,38,14,121
+Java,./java/src/org/chromium/android_webview/NullAwViewMethods.java,31,24,121
+Java,./javatests/src/org/chromium/android_webview/test/PolicyUrlFilteringTest.java,24,17,120
+Java,./glue/java/src/com/android/webview/chromium/CookieManagerAdapter.java,28,17,118
+Java,./tools/automated_ui_tests/javatests/src/org/chromium/webview_ui_test/test/DropDownListTest.java,17,27,117
+C/C++ Header,./browser/aw_contents_client_bridge.h,19,19,117
+Java,./tools/system_webview_shell/apk/src/org/chromium/webview_shell/WebViewLayoutTestActivity.java,19,10,115
+C++,./browser/aw_render_thread_context_provider.cc,30,25,115
+Java,./javatests/src/org/chromium/android_webview/test/ConsoleMessagesForBlockedLoadsTest.java,13,7,115
+Java,./java/src/org/chromium/android_webview/AwPdfExporter.java,20,30,114
+Java,./javatests/src/org/chromium/android_webview/test/CookieManagerStartupTest.java,23,10,114
+C++,./browser/permission/media_access_permission_request_unittest.cc,18,3,114
+Java,./javatests/src/org/chromium/android_webview/test/WebViewAsynchronousFindApisTest.java,21,6,114
+Java,./javatests/src/org/chromium/android_webview/test/AwServiceWorkerClientTest.java,24,14,114
+C++,./browser/input_stream_unittest.cc,24,4,113
+Java,./tools/system_webview_shell/layout_tests/src/org/chromium/webview_shell/test/WebViewThreadTest.java,25,46,112
+C++,./browser/permission/permission_request_handler.cc,25,5,112
+C++,./browser/aw_contents_statics.cc,19,13,112
+C++,./browser/aw_safe_browsing_blocking_page.cc,14,14,112
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsClientVisitedHistoryTest.java,26,11,111
+C++,./browser/command_line_helper_unittest.cc,20,3,110
+C++,./browser/aw_login_delegate.cc,23,5,110
+Java,./javatests/src/org/chromium/android_webview/test/GetTitleTest.java,19,32,108
+Java,./javatests/src/org/chromium/android_webview/test/util/CommonResources.java,22,22,108
+Java,./javatests/src/org/chromium/android_webview/test/AwSecondBrowserProcessTest.java,15,27,108
+Java,./javatests/src/org/chromium/android_webview/test/ClientOnReceivedErrorTest.java,22,9,107
+Java,./javatests/src/org/chromium/android_webview/test/AcceptLanguageTest.java,31,38,106
+Java,./java/src/org/chromium/android_webview/CleanupReference.java,21,47,106
+C++,./browser/aw_devtools_server.cc,26,5,106
+Java,./javatests/src/org/chromium/android_webview/test/ArchiveTest.java,29,12,106
+Java,./javatests/src/org/chromium/android_webview/test/AwImeTest.java,16,15,106
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsClientOnUnhandledKeyEventTest.java,29,21,106
+Java,./java/src/org/chromium/android_webview/AwViewAndroidDelegate.java,20,28,106
+Java,./java/src/org/chromium/android_webview/AwWebContentsObserver.java,20,16,106
+C/C++ Header,./browser/aw_autofill_client.h,21,13,105
+Java,./java/src/org/chromium/android_webview/AwLayoutSizer.java,32,60,105
+Java,./javatests/src/org/chromium/android_webview/test/WebViewFindApisTestBase.java,18,38,104
+C++,./browser/find_helper.cc,33,10,103
+Java,./java/src/org/chromium/android_webview/ErrorCodeConversionHelper.java,21,29,103
+Java,./glue/java/src/com/android/webview/chromium/WebViewDatabaseAdapter.java,21,13,103
+Java,./javatests/src/org/chromium/android_webview/test/ClientAddMessageToConsoleTest.java,20,11,102
+Java,./glue/java/src/com/android/webview/chromium/WebStorageAdapter.java,18,13,102
+Java,./java/src/org/chromium/android_webview/AwGLFunctor.java,21,19,101
+C/C++ Header,./browser/net/aw_cookie_store_wrapper.h,14,28,98
+C/C++ Header,./browser/net/android_stream_reader_url_request_job.h,28,21,98
+C++,./browser/aw_pdf_exporter.cc,19,8,97
+Java,./tools/automated_ui_tests/javatests/src/org/chromium/webview_ui_test/test/util/WebViewUiTestRule.java,21,12,97
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsClientFaviconTest.java,24,11,96
+Java,./java/src/org/chromium/android_webview/AwQuotaManagerBridge.java,20,47,96
+C/C++ Header,./browser/render_thread_manager.h,22,15,94
+C++,./browser/icon_helper.cc,18,8,94
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsClientOnFormResubmissionTest.java,17,17,93
+Java,./javatests/src/org/chromium/android_webview/test/KeySystemTest.java,21,23,91
+C++,./browser/net/token_binding_manager.cc,17,6,91
+C/C++ Header,./browser/test/fake_window.h,29,7,91
+Python,./tools/run_cts.py,24,11,89
+C++,./browser/aw_safe_browsing_ui_manager.cc,20,7,88
+C++,./browser/aw_ssl_host_state_delegate.cc,22,10,87
+Java,./javatests/src/org/chromium/android_webview/test/HttpCacheTest.java,16,10,87
+Java,./javatests/src/org/chromium/android_webview/test/AwStrictModeTest.java,16,8,86
+Java,./java/src/org/chromium/android_webview/ResourcesContextWrapperFactory.java,15,20,86
+C/C++ Header,./browser/test/rendering_test.h,23,5,85
+Java,./java/src/org/chromium/android_webview/AwAutofillClient.java,16,16,84
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsClientGetDefaultVideoPosterTest.java,13,6,84
+Java,./java/src/org/chromium/android_webview/AwServiceWorkerSettings.java,16,35,83
+Java,./glue/java/src/com/android/webview/chromium/GeolocationPermissionsAdapter.java,17,9,83
+Java,./java/src/org/chromium/android_webview/AwGeolocationPermissions.java,17,35,83
+Java,./java/src/org/chromium/android_webview/AwActionModeCallback.java,16,9,82
+C++,./browser/input_stream.cc,23,18,82
+C++,./browser/token_binding_manager_bridge.cc,18,13,82
+Java,./javatests/src/org/chromium/android_webview/test/AwDebugTest.java,13,16,82
+Java,./javatests/src/org/chromium/android_webview/test/FullScreenVideoTestAwContentsClient.java,19,11,81
+C++,./browser/aw_gl_functor.cc,17,5,81
+Java,./javatests/src/org/chromium/android_webview/test/ClientOnPageStartedTest.java,19,9,80
+C++,./browser/net/aw_web_resource_response.cc,12,3,80
+Java,./glue/java/src/com/android/webview/chromium/DrawGLFunctor.java,18,14,80
+Java,./glue/java/src/com/android/webview/chromium/TokenBindingManagerAdapter.java,12,15,78
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsClientOnRenderProcessGoneTest.java,15,6,78
+Java,./javatests/src/org/chromium/android_webview/test/ContentViewMiscTest.java,17,15,77
+C++,./browser/aw_form_database_service.cc,16,11,77
+Java,./java/src/org/chromium/android_webview/permission/AwPermissionRequest.java,19,14,77
+C++,./browser/popup_touch_handle_drawable.cc,14,3,76
+Java,./javatests/src/org/chromium/android_webview/test/CleanupReferenceTest.java,20,13,75
+Java,./java/src/org/chromium/android_webview/AwZoomControls.java,12,13,75
+C/C++ Header,./browser/renderer_host/aw_render_view_host_ext.h,31,27,75
+Java,./java/src/org/chromium/android_webview/AwPrintDocumentAdapter.java,14,25,74
+Java,./java/src/org/chromium/android_webview/DefaultVideoPosterRequestHandler.java,13,25,74
+Java,./java/src/org/chromium/android_webview/AwContentVideoViewEmbedder.java,19,10,73
+C++,./browser/permission/media_access_permission_request.cc,18,5,73
+C++,./browser/parent_output_surface.cc,20,3,73
+C++,./browser/aw_print_manager.cc,12,5,72
+Java,./java/src/org/chromium/android_webview/crash/AwMinidumpUploaderDelegate.java,13,17,72
+Java,./javatests/src/org/chromium/android_webview/test/util/GraphicsTestUtils.java,12,31,72
+Java,./java/src/org/chromium/android_webview/AwWebResourceResponse.java,16,6,72
+C/C++ Header,./browser/aw_quota_manager_bridge.h,21,4,72
+Java,./javatests/src/org/chromium/android_webview/test/AwPermissionManagerTest.java,16,7,72
+Java,./apk/java/src/com/android/webview/chromium/LicenseContentProvider.java,12,7,71
+C/C++ Header,./browser/renderer_host/aw_resource_dispatcher_host_delegate.h,19,7,71
+C/C++ Header,./browser/surfaces_instance.h,25,6,71
+C++,./common/aw_content_client.cc,17,12,70
+C/C++ Header,./browser/aw_cookie_access_policy.h,23,19,70
+C++,./browser/net/input_stream_reader.cc,22,7,69
+C++,./browser/permission/aw_permission_request.cc,18,4,69
+C++,./browser/renderer_host/auto_login_parser_unittest.cc,20,4,68
+C++,./browser/aw_printing_message_filter.cc,15,4,68
+C/C++ Header,./browser/aw_contents_io_thread_client.h,30,50,67
+C/C++ Header,./browser/aw_permission_manager.h,16,8,67
+Java,./java/src/org/chromium/android_webview/AwServiceWorkerController.java,16,20,67
+Python,./tools/webview_repack_locales.py,20,25,66
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsClientAutoLoginTest.java,13,6,66
+Java,./javatests/src/org/chromium/android_webview/test/HttpAuthDatabaseTest.java,17,6,66
+Java,./java/src/org/chromium/android_webview/AwTokenBindingManager.java,12,16,64
+C++,./browser/renderer_host/auto_login_parser.cc,15,7,64
+C/C++ Header,./browser/hardware_renderer.h,24,22,64
+Java,./glue/java/src/com/android/webview/chromium/ServiceWorkerClientAdapter.java,18,10,63
+Java,./tools/system_webview_shell/apk/src/org/chromium/webview_shell/WebViewCreateDestroyActivity.java,12,13,63
+C/C++ Header,./browser/aw_safe_browsing_resource_throttle.h,21,10,63
+Java,./java/src/org/chromium/android_webview/AwSafeBrowsingConfigHelper.java,12,14,62
+C/C++ Header,./renderer/aw_content_renderer_client.h,15,6,61
+C/C++ Header,./browser/net/aw_url_request_context_getter.h,22,20,61
+C++,./browser/net/aw_network_change_notifier.cc,15,7,60
+C/C++ Header,./common/render_view_messages.h,25,39,60
+Java,./javatests/src/org/chromium/android_webview/test/util/JSUtils.java,10,6,60
+C/C++ Header,./browser/aw_metrics_service_client.h,22,14,60
+Java,./tools/system_webview_shell/apk/src/org/chromium/webview_shell/TelemetryActivity.java,9,6,58
+Java,./javatests/src/org/chromium/android_webview/test/util/AwTestTouchUtils.java,9,30,58
+C/C++ Header,./browser/deferred_gpu_command_service.h,21,7,58
+C/C++ Header,./browser/aw_settings.h,17,6,57
+Java,./glue/java/src/com/android/webview/chromium/WebBackForwardListChromium.java,12,23,57
+Java,./java/src/org/chromium/android_webview/permission/AwGeolocationCallback.java,12,7,57
+C++,./browser/aw_web_ui_controller_factory.cc,22,7,57
+C/C++ Header,./browser/net/aw_network_delegate.h,11,6,56
+Java,./java/src/org/chromium/android_webview/AwPicture.java,18,12,56
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsClientGetVideoLoadingProgressViewTest.java,10,14,55
+C/C++ Header,./browser/aw_web_contents_delegate.h,9,6,55
+C++,./browser/aw_http_auth_handler.cc,11,3,55
+C/C++ Header,./browser/icon_helper.h,19,5,54
+Java,./java/src/org/chromium/android_webview/AwBrowserContext.java,14,19,54
+C/C++ Header,./browser/address_parser_internal.h,24,12,53
+Java,./test/shell/src/org/chromium/android_webview/test/AwTestRunnerActivity.java,15,12,53
+C++,./browser/net/aw_url_request_job_factory.cc,17,12,53
+Java,./tools/automated_ui_tests/javatests/src/org/chromium/webview_ui_test/test/util/Actions.java,11,18,53
+Java,./glue/java/src/com/android/webview/chromium/WebHistoryItemChromium.java,12,27,52
+Java,./javatests/src/org/chromium/android_webview/test/RenderProcessGoneHelper.java,15,6,52
+Java,./javatests/src/org/chromium/android_webview/test/TestAwContents.java,14,20,52
+C/C++ Header,./browser/aw_render_thread_context_provider.h,18,6,52
+C/C++ Header,./browser/aw_ssl_host_state_delegate.h,21,24,52
+Java,./glue/java/src/com/android/webview/chromium/WebMessagePortAdapter.java,12,7,52
+Java,./unittestjava/src/org/chromium/android_webview/unittest/InputStreamUnittest.java,11,3,52
+Java,./java/src/org/chromium/android_webview/AwMetricsServiceClient.java,13,24,51
+C++,./common/aw_media_drm_bridge_client.cc,18,3,51
+Java,./java/src/org/chromium/android_webview/InputStreamUtil.java,10,9,51
+C/C++ Header,./public/browser/draw_gl.h,16,50,51
+Java,./java/src/org/chromium/android_webview/ClientCertLookupTable.java,12,13,50
+Java,./javatests/src/org/chromium/android_webview/test/util/CookieUtils.java,17,17,50
+Java,./test/shell/src/org/chromium/android_webview/test/SecondBrowserProcess.java,8,6,50
+C++,./browser/aw_static_cookie_policy_unittest.cc,14,3,49
+C++,./browser/aw_form_database_service_unittest.cc,12,4,49
+Java,./javatests/src/org/chromium/android_webview/test/util/AwQuotaManagerBridgeTestUtil.java,13,6,48
+C++,./browser/aw_browser_policy_connector.cc,15,10,48
+C++,./browser/aw_media_url_interceptor_unittest.cc,17,9,48
+Java,./java/src/org/chromium/android_webview/ScrollAccessibilityHelper.java,14,16,47
+C++,./test/shell/src/draw_gl/draw_gl.cc,9,5,47
+Java,./java/src/org/chromium/android_webview/AwContentsLifecycleNotifier.java,11,16,47
+C++,./browser/aw_devtools_manager_delegate.cc,9,3,46
+C/C++ Header,./browser/permission/aw_permission_request.h,20,20,45
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsClientOnScaleChangedTest.java,6,6,45
+Java,./java/src/org/chromium/android_webview/PlatformServiceBridge.java,14,19,45
+Java,./javatests/src/org/chromium/android_webview/test/WebViewWebVrTest.java,8,11,45
+C++,./browser/gl_view_renderer_manager.cc,14,4,45
+C++,./browser/command_line_helper.cc,12,8,45
+C++,./renderer/aw_render_view_ext.cc,17,13,45
+Java,./glue/java/src/com/android/webview/chromium/ServiceWorkerSettingsAdapter.java,13,7,45
+Java,./java/src/org/chromium/android_webview/AutofillActionModeCallback.java,9,9,44
+C++,./browser/net/aw_web_resource_request.cc,10,4,44
+Java,./java/src/org/chromium/android_webview/SslUtil.java,8,10,44
+C/C++ Header,./browser/scoped_app_gl_state_restore.h,14,4,44
+Java,./tools/automated_ui_tests/javatests/src/org/chromium/webview_ui_test/test/WebViewJSTest.java,9,8,44
+Java,./javatests/src/org/chromium/android_webview/test/util/ImagePageGenerator.java,13,9,42
+Java,./javatests/src/org/chromium/android_webview/test/PlatformMediaCodecTest.java,8,7,42
+C/C++ Header,./lib/aw_main_delegate.h,13,8,42
+C/C++ Header,./browser/compositor_frame_consumer.h,11,11,41
+C/C++ Header,./browser/permission/permission_request_handler.h,25,18,41
+C/C++ Header,./browser/child_frame.h,12,8,41
+Java,./java/src/org/chromium/android_webview/AwViewMethods.java,30,91,41
+C/C++ Header,./browser/state_serializer.h,18,11,41
+C++,./browser/aw_javascript_dialog_manager.cc,11,3,41
+Java,./javatests/src/org/chromium/android_webview/test/util/VideoTestUtil.java,3,13,41
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsLifecycleNotifierTest.java,11,6,40
+Java,./javatests/src/org/chromium/android_webview/test/AwVariationsSeedFetchServiceTest.java,9,9,40
+C/C++ Header,./browser/find_helper.h,17,18,40
+Java,./javatests/src/org/chromium/android_webview/test/ClearHistoryTest.java,8,6,40
+C/C++ Header,./renderer/aw_render_frame_ext.h,21,7,39
+C++,./browser/aw_resource_context.cc,11,3,39
+C++,./browser/aw_debug.cc,7,7,38
+C++,./browser/child_frame.cc,9,3,38
+C/C++ Header,./browser/aw_safe_browsing_ui_manager.h,21,18,38
+Java,./tools/system_webview_shell/apk/src/org/chromium/webview_shell/TelemetryMemoryPressureActivity.java,10,6,38
+Java,./javatests/src/org/chromium/android_webview/test/util/VideoSurfaceViewUtils.java,11,11,38
+Java,./java/src/org/chromium/android_webview/AwHttpAuthHandler.java,11,6,38
+C/C++ Header,./browser/net/aw_network_change_notifier.h,13,16,37
+Java,./javatests/src/org/chromium/android_webview/test/crash/CrashReceiverServiceTest.java,7,12,37
+C/C++ Header,./browser/aw_pdf_exporter.h,14,3,36
+C/C++ Header,./browser/aw_login_delegate.h,12,4,36
+Java,./javatests/src/org/chromium/android_webview/test/util/JavascriptEventObserver.java,7,29,36
+C/C++ Header,./browser/aw_print_manager.h,15,7,36
+C/C++ Header,./browser/aw_safe_browsing_blocking_page.h,14,13,35
+C/C++ Header,./browser/net/aw_web_resource_request.h,13,9,35
+C/C++ Header,./browser/parent_output_surface.h,8,4,34
+C/C++ Header,./browser/net/aw_url_request_job_factory.h,15,12,34
+Java,./java/src/org/chromium/android_webview/JsResultHandler.java,7,3,34
+C/C++ Header,./browser/aw_http_auth_handler.h,13,7,34
+C++,./browser/aw_picture.cc,11,3,34
+C++,./browser/aw_download_manager_delegate.cc,9,6,33
+Java,./unittestjava/src/org/chromium/android_webview/unittest/MockAwContentsClientBridge.java,10,3,33
+C/C++ Header,./browser/aw_safe_browsing_whitelist_manager.h,14,42,33
+Java,./apk/java/src/com/android/webview/chromium/LicenseActivity.java,5,8,33
+C++,./renderer/print_render_frame_observer.cc,10,3,32
+C/C++ Header,./browser/net/aw_web_resource_response.h,13,9,32
+C++,./renderer/aw_render_thread_observer.cc,10,3,32
+Java,./javatests/src/org/chromium/android_webview/test/TestAwServiceWorkerClient.java,11,9,32
+C/C++ Header,./browser/gl_view_renderer_manager.h,20,5,32
+C++,./browser/net/aw_cookie_store_wrapper_unittest.cc,11,8,32
+Java,./java/src/org/chromium/android_webview/JavaBrowserViewRendererHelper.java,7,18,31
+Java,./javatests/src/org/chromium/android_webview/test/UserAgentTest.java,8,11,31
+Java,./javatests/src/org/chromium/android_webview/test/util/VideoTestWebServer.java,9,9,31
+C++,./common/aw_paths.cc,8,3,31
+C++,./browser/aw_renderer_priority_manager.cc,7,4,31
+Java,./tools/system_webview_shell/apk/src/org/chromium/webview_shell/JankActivity.java,9,7,30
+Java,./glue/java/src/com/android/webview/chromium/WebIconDatabaseAdapter.java,10,12,30
+Java,./tools/automated_ui_tests/javatests/src/org/chromium/webview_ui_test/test/util/UseWideViewPortAction.java,10,13,30
+C/C++ Header,./common/aw_content_client.h,11,5,30
+C/C++ Header,./browser/aw_browser_terminator.h,12,14,30
+C/C++ Header,./browser/aw_form_database_service.h,15,11,30
+C/C++ Header,./browser/aw_gl_functor.h,10,3,29
+C/C++ Header,./browser/browser_view_renderer_client.h,15,17,29
+C++,./browser/aw_gl_surface.cc,14,3,29
+C++,./renderer/aw_content_settings_client.cc,11,7,29
+C/C++ Header,./common/devtools_instrumentation.h,8,3,29
+Java,./javatests/src/org/chromium/android_webview/test/AwContentsStaticsTest.java,6,8,28
+C/C++ Header,./browser/input_stream.h,16,27,28
+C/C++ Header,./browser/aw_resource_context.h,14,4,28
+Java,./java/src/org/chromium/android_webview/AwDebug.java,7,21,28
+C++,./browser/aw_media_url_interceptor.cc,7,3,28
+C++,./browser/net/aw_http_user_agent_settings.cc,8,3,28
+C/C++ Header,./browser/popup_touch_handle_drawable.h,12,5,28
+Java,./java/src/org/chromium/android_webview/AwWebContentsDelegate.java,9,13,27
+C/C++ Header,./browser/aw_printing_message_filter.h,12,8,27
+C/C++ Header,./browser/aw_renderer_priority_manager.h,11,4,27
+C/C++ Header,./browser/aw_browser_permission_request_delegate.h,12,6,27
+Bourne Shell,./tools/system_webview_shell/apk/run_startup_time_test.sh,7,4,26
+C/C++ Header,./browser/permission/media_access_permission_request.h,12,7,26
+C/C++ Header,./browser/aw_javascript_dialog_manager.h,8,4,26
+C/C++ Header,./browser/renderer_host/auto_login_parser.h,13,11,26
+C/C++ Header,./public/browser/draw_sw.h,14,16,26
+C/C++ Header,./browser/aw_web_ui_controller_factory.h,10,4,26
+C/C++ Header,./browser/aw_browser_main_parts.h,13,5,26
+C/C++ Header,./common/aw_hit_test_data.h,14,39,26
+C/C++ Header,./browser/aw_picture.h,11,4,25
+C++,./browser/aw_metrics_log_uploader.cc,10,10,25
+Java,./java/src/org/chromium/android_webview/AwContentsBackgroundThreadClient.java,7,8,25
+Java,./tools/automated_ui_tests/java/src/org/chromium/webview_ui_test/WebViewUiTestActivity.java,10,6,25
+C/C++ Header,./browser/net/input_stream_reader.h,14,23,25
+C++,./browser/compositor_id.cc,9,3,25
+Java,./java/src/org/chromium/android_webview/policy/AwPolicyProvider.java,8,8,25
+C++,./browser/parent_compositor_draw_constraints.cc,9,5,24
+C/C++ Header,./browser/permission/simple_permission_request.h,10,6,24
+C/C++ Header,./browser/net/token_binding_manager.h,14,31,24
+Java,./java/src/org/chromium/android_webview/command_line/CommandLineUtil.java,8,13,24
+C/C++ Header,./renderer/aw_render_view_ext.h,11,7,23
+C++,./renderer/aw_print_render_frame_helper_delegate.cc,10,3,23
+Java,./java/src/org/chromium/android_webview/AwResource.java,11,13,23
+C++,./browser/aw_form_database.cc,9,5,23
+C/C++ Header,./browser/net/aw_request_interceptor.h,10,7,23
+C/C++ Header,./browser/aw_gl_surface.h,9,7,23
+C/C++ Header,./browser/java_browser_view_renderer_helper.h,12,4,22
+Java,./java/src/org/chromium/android_webview/AwNetworkChangeNotifierRegistrationPolicy.java,7,8,22
+C++,./common/android_webview_message_generator.cc,8,10,22
+Java,./java/src/org/chromium/android_webview/crash/AwMinidumpUploadJobService.java,5,11,22
+C++,./browser/aw_web_contents_view_delegate.cc,9,12,22
+Java,./tools/automated_ui_tests/javatests/src/org/chromium/webview_ui_test/test/util/Atoms.java,5,12,22
+Java,./java/src/org/chromium/android_webview/AwSafeBrowsingConversionHelper.java,5,16,21
+C/C++ Header,./browser/net/aw_network_change_notifier_factory.h,11,9,21
+C/C++ Header,./common/aw_media_drm_bridge_client.h,9,6,21
+C/C++ Header,./browser/aw_web_contents_view_delegate.h,12,4,21
+C/C++ Header,./browser/net/aw_http_user_agent_settings.h,11,10,20
+Java,./java/src/org/chromium/android_webview/AwContentsIoThreadClient.java,9,9,20
+C++,./browser/permission/simple_permission_request.cc,9,3,20
+Java,./glue/java/src/com/android/webview/chromium/ServiceWorkerControllerAdapter.java,8,13,20
+C++,./browser/aw_safe_browsing_config_helper.cc,7,7,20
+C/C++ Header,./browser/net/init_native_callback.h,12,9,20
+C/C++ Header,./renderer/aw_content_settings_client.h,10,6,20
+C/C++ Header,./browser/aw_download_manager_delegate.h,7,6,19
+Java,./test/embedded_test_server/java/src/org/chromium/android_webview/test/AwEmbeddedTestServerImpl.java,6,15,19
+C/C++ Header,./browser/aw_devtools_manager_delegate.h,10,6,19
+C++,./common/aw_resource.cc,6,3,19
+C/C++ Header,./browser/aw_devtools_server.h,11,6,19
+C/C++ Header,./browser/aw_metrics_log_uploader.h,11,5,19
+Java,./java/src/org/chromium/android_webview/AwDevToolsServer.java,8,6,19
+C/C++ Header,./browser/aw_render_process_gone_delegate.h,9,11,18
+Java,./tools/system_webview_shell/apk/src/org/chromium/webview_shell/StartupTimeActivity.java,7,6,18
+C++,./browser/tracing/aw_tracing_delegate.cc,7,3,18
+C/C++ Header,./common/crash_reporter/aw_microdump_crash_reporter.h,6,3,18
+C/C++ Header,./gpu/aw_content_gpu_client.h,9,4,18
+Java,./java/src/org/chromium/android_webview/AwRenderProcessGoneDetail.java,5,7,18
+C/C++ Header,./browser/parent_compositor_draw_constraints.h,8,3,18
+C/C++ Header,./browser/aw_quota_permission_context.h,10,3,18
+C/C++ Header,./browser/command_line_helper.h,8,7,17
+C/C++ Header,./renderer/aw_print_render_frame_helper_delegate.h,7,4,17
+Bourne Shell,./tools/system_webview_shell/test/data/run_tests_rebaseline.sh,8,23,17
+C++,./lib/webview_jni_onload.cc,7,6,17
+C/C++ Header,./renderer/aw_render_thread_observer.h,10,6,17
+C/C++ Header,./renderer/print_render_frame_observer.h,10,5,17
+C/C++ Header,./browser/compositor_id.h,7,3,17
+C/C++ Header,./browser/permission/aw_permission_request_delegate.h,11,7,17
+C/C++ Header,./common/crash_reporter/crash_keys.h,10,7,16
+C/C++ Header,./browser/permission/permission_request_handler_client.h,8,3,16
+Java,./tools/system_webview_shell/apk/src/org/chromium/webview_shell/PageCyclerTestActivity.java,6,7,16
+C/C++ Header,./browser/aw_media_url_interceptor.h,8,4,16
+Java,./test/shell/src/org/chromium/android_webview/shell/AwShellApplication.java,4,6,16
+C++,./common/url_constants.cc,7,7,15
+Java,./java/src/org/chromium/android_webview/AwSafeBrowsingResponse.java,4,6,15
+Java,./test/embedded_test_server/java/src/org/chromium/android_webview/test/AwEmbeddedTestServer.java,5,29,15
+C/C++ Header,./browser/compositor_frame_producer.h,7,3,15
+C++,./browser/aw_quota_permission_context.cc,8,6,15
+Java,./javatests/src/org/chromium/android_webview/test/AwFormDatabaseTest.java,4,4,15
+C/C++ Header,./browser/aw_browser_policy_connector.h,7,5,14
+Java,./test/shell/src/org/chromium/android_webview/shell/AwShellResourceProvider.java,8,6,14
+C/C++ Header,./browser/aw_contents_lifecycle_notifier.h,7,3,14
+JavaScript,./test/shell/assets/full_screen_video.js,4,3,14
+C/C++ Header,./browser/address_parser.h,10,12,14
+C/C++ Header,./browser/tracing/aw_tracing_delegate.h,7,4,14
+C/C++ Header,./browser/aw_safe_browsing_config_helper.h,7,3,14
+C++,./browser/net/init_native_callback.cc,6,3,14
+Java,./java/src/org/chromium/android_webview/AwFormDatabase.java,7,10,13
+C++,./lib/webview_tests.cc,2,3,13
+Java,./javatests/src/org/chromium/android_webview/test/StandaloneAwQuotaManagerBridgeTest.java,4,8,13
+Java,./java/src/org/chromium/android_webview/AwRendererPriorityManager.java,3,8,13
+Java,./tools/system_webview_shell/page_cycler/src/org/chromium/webview_shell/page_cycler/WebViewPageCyclerTestRunner.java,5,6,12
+C/C++ Header,./browser/android_protocol_handler.h,8,12,12
+C/C++ Header,./common/aw_paths.h,10,7,12
+C/C++ Header,./browser/render_thread_manager_client.h,7,9,12
+Python,./tools/PRESUBMIT.py,9,10,12
+Java,./glue/java/src/com/android/webview/chromium/GraphicsUtils.java,4,3,11
+C/C++ Header,./common/aw_descriptors.h,4,3,11
+Java,./glue/java/src/com/android/webview/chromium/MonochromeLibraryPreloader.java,5,7,11
+C++,./browser/aw_contents_lifecycle_notifier.cc,7,5,11
+Java,./test/shell/src/org/chromium/android_webview/test/AwInstrumentationTestRunner.java,4,7,11
+C/C++ Header,./common/aw_resource.h,6,5,10
+C++,./gpu/aw_content_gpu_client.cc,6,3,10
+C/C++ Header,./common/url_constants.h,8,6,10
+Java,./test/embedded_test_server/java/src/org/chromium/android_webview/test/AwEmbeddedTestServerService.java,3,6,10
+C/C++ Header,./browser/aw_result_codes.h,7,4,10
+C/C++ Header,./renderer/aw_key_systems.h,7,3,10
+Java,./java/src/org/chromium/android_webview/AwMetricsLogUploader.java,3,9,10
+C/C++ Header,./test/embedded_test_server/aw_embedded_test_server.h,6,3,9
+C++,./browser/net/aw_network_change_notifier_factory.cc,7,3,9
+C/C++ Header,./common/aw_switches.h,6,6,9
+C++,./test/embedded_test_server/aw_test_jni_onload.cc,5,3,9
+Java,./test/shell/src/org/chromium/android_webview/shell/DrawGL.java,3,6,9
+C++,./test/embedded_test_server/aw_test_entry_point.cc,2,4,9
+C++,./renderer/aw_key_systems.cc,4,3,9
+Java,./javatests/src/org/chromium/android_webview/test/DisableHardwareAccelerationForTest.java,4,6,9
+C++,./common/aw_switches.cc,5,4,8
+C++,./lib/webview_entry_point.cc,2,5,8
+C/C++ Header,./test/embedded_test_server/aw_test_jni_onload.h,5,3,8
+C++,./browser/aw_browser_process.cc,4,3,8
+Java,./java/src/org/chromium/android_webview/AwSwitches.java,4,12,7
+Java,./tools/automated_ui_tests/javatests/src/org/chromium/webview_ui_test/test/util/UseLayout.java,3,7,7
+C/C++ Header,./browser/aw_browser_process.h,5,3,6
+C/C++ Header,./lib/webview_jni_onload.h,5,3,6
+C++,./common/aw_hit_test_data.cc,5,3,5
+C++,./browser/permission/aw_permission_request_delegate.cc,5,3,5
+Java,./java/src/org/chromium/android_webview/JsResultReceiver.java,2,11,5
+Java,./java/src/org/chromium/android_webview/AwServiceWorkerClient.java,5,8,5
+Java,./test/shell/src/org/chromium/android_webview/shell/AwShellSwitches.java,4,9,5
+Java,./java/src/org/chromium/android_webview/JsPromptResultReceiver.java,2,10,5
+C++,./browser/permission/permission_request_handler_client.cc,5,3,5
+C++,./common/render_view_messages.cc,4,4,3
+JavaScript,./test/data/script.js,1,3,1
+C/C++ Header,./common/android_webview_message_generator.h,2,4,1
